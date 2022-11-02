@@ -1,7 +1,7 @@
 ###  Hello, World! 👋👋
-#### Familiar with HTML, CSS, Bootstrap 5, Javascript, and a little bit of PHP.
+#### Familiar with HTML, CSS, Bootstrap 5, Javascript, and a little bit of Node JS.
 
-Currently working on https://aryadewata.github.io/smkti-course
+Currently working on https://aryadewata.github.io/tes
 
 <!--
 **AryaDewata/AryaDewata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
